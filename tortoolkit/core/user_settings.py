@@ -29,7 +29,7 @@ no = "❌"
 yes = "✅"
 # Central object is not used its Acknowledged
 tordb = TorToolkitDB()
-header = '<b>LEECH BOR <a href="https://t.me/TGFilmZone">TGFilmZone</a></b>\n<u>USER SETTINGS MENU - v1</u>'
+header = '<b>LEECH BOT <a href="https://t.me/TGFilmZone">TGFilmZone</a></b>\n<u>USER SETTINGS MENU - v1</u>'
 
 
 async def handle_user_setting_callback(e):
@@ -164,19 +164,19 @@ async def handle_user_settings(e, edit=False, msg="", submenu=None, sender_id=No
 
         if edit:
             rmess = await e.edit(
-                header + "\nEnjoiii.\n" + msg,
+                header + "\nHueHue 🐶.\n" + msg,
                 parse_mode="html",
                 buttons=menu,
                 link_preview=False,
-                file="Zylern.jpg",
+                file="rango.jpg",
             )
         else:
             rmess = await e.reply(
-                header + "\nEnjoiii.\n",
+                header + "\nHueHue 🐶.\n",
                 parse_mode="html",
                 buttons=menu,
                 link_preview=False,
-                file="Zylern.jpg",
+                file="rango.jpg",
             )
     elif submenu == "rclonemenu":
         rcval = await get_string_variable(
