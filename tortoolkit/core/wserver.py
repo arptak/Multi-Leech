@@ -27,7 +27,7 @@ page = """
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Torrent File Selector</title>
-    <link rel="icon" href="https://telegra.ph/file/3c2cfbd677de48cb4f7c7.jpg" type="image/jpg">
+    <link rel="icon" href="https://telegra.ph/file/bab8f6f72e170f581358e.jpg" type="image/jpg">
     <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
       integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
@@ -203,13 +203,13 @@ input[type="submit"]:hover, input[type="submit"]:focus{
           src="https://telegra.ph/file/3c2cfbd677de48cb4f7c7.jpg"
           alt="logo"
         />
-        <a href="https://t.me/Zylern"> 
-          <h2 class="name">TorToolKit-X</h2>
+        <a href="https://t.me/TGFilmZone"> 
+          <h2 class="name">TGFilmZone</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://github.com/Zylern/TorToolKit-X"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/Zylern"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/TGFilmZone"><i class="fab fa-github"></i></a>
+        <a href="https://t.me/amcdev"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
@@ -539,16 +539,16 @@ section span{
     <header>
       <div class="brand">
         <img
-          src="https://telegra.ph/file/3c2cfbd677de48cb4f7c7.jpg"
+          src="https://telegra.ph/file/bab8f6f72e170f581358e.jpg"
           alt="logo"
         />
-        <a href="https://t.me/Zylern">
-          <h2 class="name">TorToolKit-X</h2>
+        <a href="https://t.me/AmcDev">
+          <h2 class="name">AMC</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://github.com/https://github.com/Zylern/TorToolKit-X"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/Zylern"><i class="fab fa-telegram"></i></a>
+        <a href="https://github.com/https://github.com/RangoZex"><i class="fab fa-github"></i></a>
+        <a href="https://t.me/RangoZex"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
@@ -721,7 +721,7 @@ async def set_priority(request):
 @routes.get("/")
 async def homepage(request):
     return web.Response(
-        text='<h1>🤗TorToolKit-X webserver is Up and Running successfully🟢</h1>\n<h2>⚡See TorToolKit-X on <a href="https://github.com/Zylern/TorToolKit-X">@GitHub</a></h2>\n<h2>Zylern<a href="https://t.me/Zylern">Zylern</a></h2>',
+        text='<h1>🤗TorToolKit-X webserver is Up and Running successfully🟢</h1>\n<h2>⚡See TorToolKit-X on <a href="https://github.com/Vision-Wizard/Multi-Leech">@GitHub</a></h2>\n<h2>rango<a href="https://t.me/Rango">Rango</a></h2>',
         content_type="text/html",
     )
 
