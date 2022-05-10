@@ -1,7 +1,7 @@
 # Deployment
 
 ## ***Heroku***
-<p><a href="https://heroku.com/deploy?template=https://github.com/Vision-Wizard/TorToolKit-X"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Vision-Wizard/Multi-Leech"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 ## ***Zeet***
 According to me, this platform provides resources that are enough for a genuine user and by default prevents Abuse:
